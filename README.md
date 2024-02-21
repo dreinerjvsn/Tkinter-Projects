@@ -5,7 +5,7 @@
 * Melhorar o Layout
 
 
-## IDEIAS DE GAYBRIEL
+## EXT IDS
 - Cadastrar Produto e preço UI
 (Guardanapo R$0.1)
 - Pedidos diferentes;
