@@ -1,0 +1,4 @@
+# Primeiro gitignore útil, vou por ambos os testes que não são prioridade para o projeto.
+
+/teste1.py
+/teste2.py
