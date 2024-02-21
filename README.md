@@ -1,6 +1,8 @@
-# Criar uma função para calcular o valor subtotal
-# Criar um Botão para mostrar o carrinho
-# Melhorar o Layout
+# Projeto simples para automatização de uma lanchonete online
+
+* Criar uma função para calcular o valor subtotal
+* Criar um Botão para mostrar o carrinho
+* Melhorar o Layout
 
 
 ## IDEIAS DE GAYBRIEL
