@@ -1,5 +1,7 @@
 # Projeto simples para automatização de uma lanchonete online
 
+## TODO
+
 * Criar uma função para calcular o valor subtotal
 * Criar um Botão para mostrar o carrinho
 * Melhorar o Layout
